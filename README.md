@@ -30,15 +30,15 @@ Conclusions
 ==
 1. Has the global market become less sensitive to the discovery of COVID-19 variants?
 Is there a regional difference?
- * For the majority of the variants of concern, yes.
- * Omicron is an exception for the US and Asian markets but not the the European
+  * For the majority of the variants of concern, yes.
+  * Omicron is an exception for the US and Asian markets but not the the European
 markets.
 2. How has the emergence of COVID-19, associated variants and vaccine rollouts
 impacted virtual and in-person fitness stocks?
- * Based on the data people prefer in person fitness over virtual.
+  * Based on the data people prefer in person fitness over virtual.
 3. Impact of COVID-19 on Airline industry?
- * From the analysis, it appears that due to COVID, the stocks went down and each
+  * From the analysis, it appears that due to COVID, the stocks went down and each
 time the vaccine came out the stocks tend to go up.
 4. What was the impact on Bitcoin’s annual and intra-year performance?
- * The analyses conducted do not reflect a clear impact from COVID-19 and its
+  * The analyses conducted do not reflect a clear impact from COVID-19 and its
 variants on Bitcoin’s price action.
